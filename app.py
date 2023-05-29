@@ -1,6 +1,5 @@
 import operaciones.operacionesCalculadora
 
-
 def main():
     resta = operaciones.operacionesCalculadora.resta(7,4)
     print(f'La resta es: {resta}')
